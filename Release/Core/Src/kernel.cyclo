@@ -1,0 +1,13 @@
+kernel.c:33:6:null_task	1
+kernel.c:42:5:getNextReadyTask	3
+kernel.c:55:6:osKernelInit	0
+kernel.c:102:5:osCreateTask	9
+kernel.c:171:5:osKernelStart	4
+kernel.c:202:6:osYield	1
+kernel.c:208:5:osTaskInfo	5
+kernel.c:229:8:osGetTID	2
+kernel.c:237:5:osTaskExit	2
+kernel.c:251:6:enterSP	1
+kernel.c:256:6:exitSP	2
+kernel.c:270:6:updateSP	2
+kernel.c:284:6:SVC_Handler_Main	5

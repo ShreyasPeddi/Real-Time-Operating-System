@@ -1,0 +1,17 @@
+../Core/Src/kernel.c:32:6:null_task	16	static
+../Core/Src/kernel.c:37:5:getEarliestDeadlineTask	24	static
+../Core/Src/kernel.c:51:6:osKernelInit	32	static
+../Core/Src/kernel.c:111:5:osCreateTask	16	static
+../Core/Src/kernel.c:118:5:osCreateDeadlineTask	32	static,ignoring_inline_asm
+../Core/Src/kernel.c:187:5:osKernelStart	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:213:6:osYield	8	static,ignoring_inline_asm
+../Core/Src/kernel.c:225:6:osSleep	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:238:6:osPeriodYield	16	static
+../Core/Src/kernel.c:244:5:osSetDeadline	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:269:5:osTaskInfo	16	static
+../Core/Src/kernel.c:289:5:osTaskExit	8	static,ignoring_inline_asm
+../Core/Src/kernel.c:308:6:enterSP	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:313:6:exitSP	4	static
+../Core/Src/kernel.c:324:6:updateSP	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:336:8:osGetTID	4	static
+../Core/Src/kernel.c:344:6:SVC_Handler_Main	24	static,ignoring_inline_asm

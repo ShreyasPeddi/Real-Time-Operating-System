@@ -1,0 +1,4 @@
+../Core/Src/backward_compatibility_test1.c:10:6:Task1	16	static
+../Core/Src/backward_compatibility_test1.c:23:6:Task2	16	static
+../Core/Src/backward_compatibility_test1.c:32:6:Task3	16	static
+../Core/Src/backward_compatibility_test1.c:40:5:main	40	static

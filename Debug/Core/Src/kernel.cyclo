@@ -1,0 +1,17 @@
+kernel.c:32:6:null_task	1
+kernel.c:37:5:getEarliestDeadlineTask	4
+kernel.c:51:6:osKernelInit	6
+kernel.c:111:5:osCreateTask	1
+kernel.c:118:5:osCreateDeadlineTask	13
+kernel.c:187:5:osKernelStart	4
+kernel.c:213:6:osYield	1
+kernel.c:225:6:osSleep	3
+kernel.c:238:6:osPeriodYield	1
+kernel.c:244:5:osSetDeadline	7
+kernel.c:269:5:osTaskInfo	5
+kernel.c:289:5:osTaskExit	2
+kernel.c:308:6:enterSP	1
+kernel.c:313:6:exitSP	2
+kernel.c:324:6:updateSP	2
+kernel.c:336:8:osGetTID	2
+kernel.c:344:6:SVC_Handler_Main	5

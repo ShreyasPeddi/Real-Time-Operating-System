@@ -1,0 +1,13 @@
+../Core/Src/kernel.c:33:6:null_task	0	static
+../Core/Src/kernel.c:42:5:getNextReadyTask	0	static
+../Core/Src/kernel.c:55:6:osKernelInit	0	static
+../Core/Src/kernel.c:102:5:osCreateTask	32	static
+../Core/Src/kernel.c:171:5:osKernelStart	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:202:6:osYield	0	static,ignoring_inline_asm
+../Core/Src/kernel.c:208:5:osTaskInfo	12	static
+../Core/Src/kernel.c:229:8:osGetTID	0	static
+../Core/Src/kernel.c:237:5:osTaskExit	0	static,ignoring_inline_asm
+../Core/Src/kernel.c:251:6:enterSP	0	static,ignoring_inline_asm
+../Core/Src/kernel.c:256:6:exitSP	16	static
+../Core/Src/kernel.c:270:6:updateSP	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:284:6:SVC_Handler_Main	0	static,ignoring_inline_asm

@@ -1,0 +1,6 @@
+memory.c:41:5:k_mem_init	3
+memory.c:68:7:k_mem_alloc	13
+memory.c:118:5:k_mem_dealloc	12
+memory.c:165:6:coalesce	6
+memory.c:185:5:k_mem_count_extfrag	5
+memory.c:209:17:align_to_word	1

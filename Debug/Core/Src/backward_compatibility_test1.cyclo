@@ -1,0 +1,4 @@
+backward_compatibility_test1.c:10:6:Task1	2
+backward_compatibility_test1.c:23:6:Task2	2
+backward_compatibility_test1.c:32:6:Task3	2
+backward_compatibility_test1.c:40:5:main	4
